@@ -1,6 +1,6 @@
 ---
 namespace: staging
-image:
+images:
   - name: snowbee/nginx
     newTag: v0.1.0
 resources:
