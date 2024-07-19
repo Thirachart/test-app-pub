@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/Thirachart/test-app-pub.git
     targetRevision: HEAD
-    path: enviroments/staging/second-app
+    path: environments/staging/second-app
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
